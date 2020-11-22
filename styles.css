@@ -1,0 +1,112 @@
+.body2 {
+    width: 1910px;
+    height: 1000px;
+    background-image: url("../IntProg2/img/image1.png");
+    background-size: 120%;
+}
+
+.body3 {
+    width: 1910px;
+    height: 1000px;
+    background-image: url("../IntProg2/img/image2.png");
+    background-size: 100%;
+}
+
+h1 {
+    font-size: 150%;  
+}
+
+h2 {
+    font-size: 120%; 
+}
+
+h3 {
+    font-size: 160%; 
+}
+
+h4 {
+    font-size: 180%; 
+}
+
+h5 {
+    font-size: 180%; 
+    text-align: center;
+}
+
+h6 {
+    font-size: 180%; 
+    font-style: italic;
+    text-align: center;
+    color: blue;
+}
+
+.buttons {
+    margin-left: 75%; 
+}
+
+.buttons > a > .btn {
+    
+    margin-top: 3%;
+    margin-left: 2%;
+    margin-right: 2%; 
+    height: 90px;
+    width: 200px;
+}
+
+.card {
+   background-color: transparent;
+   border-color: transparent;   
+   margin-left: 2%;
+}
+.nav-item {
+    margin-right: 25%;
+    margin-top: 3%;
+}
+
+.navbar-brand {
+    font-size: 350%;
+}
+
+.description {
+    position: absolute;
+    left: 30px;
+    right: 500;
+    top: 250;
+    bottom: 400;
+}
+
+.nomera {
+    position: absolute;
+    left: 950px;
+    right: 30px;
+    margin-top: 3%;
+    bottom: 150;
+}
+
+.reservation {
+    color:white;
+    font-size: 110%;   
+    text-align: center;
+}
+
+.card{
+    width: 18rem;
+    background-color: white;
+}
+
+.pagination {
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+}
+
+.form-group{
+    text-align: center;
+}
+
+.btn-primary{
+    height:50px;
+    width:170px;
+    margin-left: 46%;
+}
